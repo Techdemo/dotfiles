@@ -1,4 +1,4 @@
-# Marcel Fleuren Dotfiles
+# Marcel Fleuren bashprofile
 a first attempt at creating my own dot files. It's a start and I plan to make some further adjustments in the further. For example: I want to write some scripts for setting up a work environment in HTML/CSS. 
 
 ## Things I added to my bashprofile 
